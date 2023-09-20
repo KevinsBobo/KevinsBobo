@@ -4,6 +4,17 @@
 
 - 🚀 My blog: [https://kevins.pro](https://kevins.pro)
 
+### My Contributed 🌱
+
+> 🏗️ feature 🛠️ fixed bug
+
+| PR | Repositores | Stars |
+| ---- | ---- | ---- |
+| 🏗️ | [findcrypt-yara](https://github.com/polymorf/findcrypt-yara) | ![GitHub stars](https://img.shields.io/github/stars/polymorf/findcrypt-yara?color=1E90FF) |
+| 🛠️ | [electron-vite-react](https://github.com/electron-vite/electron-vite-react) | ![GitHub stars](https://img.shields.io/github/stars/caoxiemeihao/vite-react-electron?color=1E90FF) |
+| 🛠️ | [useDApp](https://github.com/TrueFiEng/useDApp) | ![GitHub stars](https://img.shields.io/github/stars/TrueFiEng/useDApp?color=1E90FF) |
+------
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
