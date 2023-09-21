@@ -5,11 +5,11 @@
 Welcome to my Github!
 
 - 🚀 My blog: [https://kevins.pro](https://kevins.pro)
-- ❄️ My favorite forum: [看雪](https://bbs.kanxue.com/homepage-751258.htm)
+- ❄️ My favorite bbs: [看雪](https://bbs.kanxue.com/homepage-751258.htm)
 
 ### My Contributed 🌱
 
-> 🏗️ feature 🛠️ fixed bug
+> 🏗️ Contributed 🛠️ Fixed Bug
 
 | PR | Repositores | Stars |
 | ---- | ---- | ---- |
