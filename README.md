@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevinsbobo&show_icons=true&icon_color=1E90FF&text_color=718096&bg_color=ffffff&hide_title=false" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kevinsbobo&show_icons=true&icon_color=1E90FF&text_color=718096&bg_color=ffffff&hide_title=true" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
 
 Welcome to my Github!
 
