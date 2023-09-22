@@ -14,7 +14,7 @@ Welcome to my Github!
 > 🏗️ Contributed 🛠️ Fixed Bug
 
 <a href="https://github.com/KevinsBobo">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html&hide_title=true" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
 </a>
 
 | PR | Repositores | Stars |
