@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/KevinsBobo">
-<img src="https://github-readme-stats.vercel.app/api?username=kevinsbobo&count_private=true&show_icons=true&icon_color=1E90FF&text_color=696969&bg_color=ffffff&hide_title=true" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
+<img src="https://github-readme-stats-mu-orpin.vercel.app/api?username=kevinsbobo&show_icons=true&icon_color=1E90FF&text_color=696969&bg_color=ffffff&hide_title=true" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
 </a>
 
 Welcome to my Github!
@@ -14,7 +14,7 @@ Welcome to my Github!
 > 🏗️ Contributed 🛠️ Fixed Bug
 
 <a href="https://github.com/KevinsBobo">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html&hide_title=true" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
+<img src="https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html,PHP&hide_title=true" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
 </a>
 
 | PR | Repositores | Stars |
