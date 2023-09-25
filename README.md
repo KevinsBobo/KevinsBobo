@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://github.com/KevinsBobo">
-<img src="https://github-readme-stats-mu-orpin.vercel.app/api?username=kevinsbobo&show_icons=true&icon_color=1E90FF&text_color=696969&bg_color=ffffff&include_all_commits=true&hide=issues&custom_title=My%20Github%20Status%20%28Include%20private%20contributions%29" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
+<a href="#">
+<img src="https://github-readme-stats-mu-orpin.vercel.app/api?username=kevinsbobo&show_icons=true&icon_color=1E90FF&text_color=696969&bg_color=ffffff&include_all_commits=true&hide=issues&custom_title=My%20Github%20Status%20%28include%20private%20contributions%29" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
 </a>
 
 Welcome to my Github!
@@ -13,7 +13,7 @@ Welcome to my Github!
 
 > 🏗️ Contributed 🛠️ Fixed Bug
 
-<a href="https://github.com/KevinsBobo">
+<a href="#">
 <img src="https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html,PHP" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
 </a>
 
