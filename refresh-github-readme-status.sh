@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+# Delays
+hour=$(date "+%H")
+sleep $((hour * 2 * 60))
+
 # Maintaining the cache through timed access
 
 wget -O readme.json "https://github.com/KevinsBobo/KevinsBobo/blob/main/README.md" > /dev/null 2>&1
