@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Delays
-hour=$(date "+%H")
+hour=$(date "+%k")
 sleep $((hour * 2 * 60))
 
 # Maintaining the cache through timed access
