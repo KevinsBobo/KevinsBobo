@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats-mu-orpin.vercel.app/api?username=kevinsbobo&show_icons=true&icon_color=1E90FF&text_color=696969&bg_color=ffffff&include_all_commits=true&hide=issues&custom_title=My%20Github%20Status%20%28include%20private%20contributions%29" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
+<img src="https://github-readme-stats-mu-orpin.vercel.app/api?username=kevinsbobo&show_icons=true&icon_color=1E90FF&text_color=696969&bg_color=ffffff&include_all_commits=true&hide=issues&custom_title=My%20Github%20Status%20%28include%20private%20contributions%29" align="right" alt="Refresh" style="margin-bottom: 20px;"/>
 
 Welcome to my Github!
 
@@ -11,7 +11,7 @@ Welcome to my Github!
 
 > 🏗️ Contributed 🛠️ Fixed Bug
 
-<img src="https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html,PHP" align="right" alt="KevinsBobo's Github" style="margin-bottom: 20px;"/>
+<img src="https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html,PHP" align="right" alt="Refresh" style="margin-bottom: 20px;"/>
 
 | PR | Repositores | Stars |
 | ---- | ---- | ---- |
