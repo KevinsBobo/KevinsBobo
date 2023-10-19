@@ -11,7 +11,7 @@ wget -O readme.json "https://github.com/KevinsBobo/KevinsBobo/blob/main/README.m
 # Read readme.json as a string and extract the src image url of the first two html img in it
 readme=$(cat readme.json)
 
-urls=$(echo $readme | grep -oP '(?<=<img src=\\").*?(?=\\" align=\\"right\\" alt=\\"KevinsBobo)')
+urls=$(echo $readme | grep -oP '(?<=<img src=\\").*?(?=\\" align=\\"right\\" alt=\\"Refresh)')
 
 # Split the urls string into two variables in lines
 img1=$(echo $urls | awk -F ' ' '{print $1}')
@@ -21,8 +21,13 @@ img2=$(echo $urls | awk -F ' ' '{print $2}')
 # echo $img2
 
 # Download the picture and overwrite it
-wget --no-check-certificate -O github-status.svg $img1 > /dev/null 2>&1
-wget --no-check-certificate -O github-language.svg $img2 > /dev/null 2>&1
+wget --no-check-certificate -O github-status.svg $img1 > github-status.log 2>&1
+wget --no-check-certificate -O github-language.svg $img2 > github-language.log 2>&1
+
+sleep 600
+
+wget --server-response --no-check-certificate -O github-status.svg $img1 > github-status.log 2>&1
+wget --server-response --no-check-certificate -O github-language.svg $img2 > github-language.log 2>&1
 
 # wget --no-check-certificate -O github-status.svg "https://camo.githubusercontent.com/ec72a8fb26b978e289e0f6dd26e9efd20095931d8e1a97f50f38dce1955b6ed2/68747470733a2f2f6769746875622d726561646d652d73746174732d6d752d6f7270696e2e76657263656c2e6170702f6170693f757365726e616d653d6b6576696e73626f626f2673686f775f69636f6e733d747275652669636f6e5f636f6c6f723d31453930464626746578745f636f6c6f723d3639363936392662675f636f6c6f723d66666666666626696e636c7564655f616c6c5f636f6d6d6974733d7472756526686964653d69737375657326637573746f6d5f7469746c653d4d79253230476974687562253230537461747573253230253238696e636c75646525323070726976617465253230636f6e747269627574696f6e73253239" > /dev/null 2>&1
 # wget --no-check-certificate -O github-language.svg "https://camo.githubusercontent.com/e0cf662953e2c68062da8039b185b80fa51e27091dcc16deb2089d548e002fb3/68747470733a2f2f6769746875622d726561646d652d73746174732d6d752d6f7270696e2e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6576696e73626f626f266c61796f75743d636f6d7061637426686964653d526f66662c6373732c68746d6c2c504850" > /dev/null 2>&1
