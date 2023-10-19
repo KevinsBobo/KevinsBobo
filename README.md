@@ -11,7 +11,7 @@ Welcome to my Github!
 
 > 🏗️ Contributed 🛠️ Fixed Bug
 
-<img src="https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html,PHP" align="right" alt="Refresh" style="margin-bottom: 20px;"/>
+<img src="https://github-readme-stats-mu-orpin.vercel.app/api/top-langs/?username=kevinsbobo&layout=compact&hide=Roff,css,html,PHP" align="right" alt="Refresh 刷新" style="margin-bottom: 20px;"/>
 
 | PR | Repositores | Stars |
 | ---- | ---- | ---- |
